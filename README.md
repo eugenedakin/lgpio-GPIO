@@ -26,5 +26,5 @@ As of Dec 2020, the latest Operating System is Raspbian Buster, with Raspberry P
 using Xojo's 2020 R2.1 (Xojo API2) code. 
 
 With the changes in Raspberry Pi motherboard, Buster Opeating System, Xojo API2, and deprecation
-of wiringPi, and sysfs, a new book is being written that provides examples, explanations, and 
+of wiringPi, and sysfs, a new book might be written that provides examples, explanations, and 
 data for all of these recent changes. 
