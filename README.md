@@ -28,3 +28,27 @@ using Xojo's 2020 R2.1 (Xojo API2) code.
 With the changes in Raspberry Pi motherboard, Buster Opeating System, Xojo API2, and deprecation
 of wiringPi, and sysfs, a new book might be written that provides examples, explanations, and 
 data for all of these recent changes. 
+
+V1.0 (22 Dec 2020)
+  The initial and starting declares used to work with the lgpio on Raspberry Pi 4,
+with Xojo 2021 r3.1, with the Raspberry Pi OS. As the writing
+of the new book progresses, so will the versions of this class. 
+
+V1.1 (6 Mar 2022)
+ - Changed the format of lgpio module to be consistent with long-term development
+ - Changed lgGpiochipOpen method internals
+ - Changed lgGpiochipClose method internals
+ - Changed lgGpioClaimOutput method internals
+ - Changed lgGpioWrite method internals
+ - Added lgGpioInfo method
+ - Added On Property 
+ - Added OFF Property 
+ - Added HIGH Property 
+ - Added Low Property 
+ - Added lgGpioFree method
+ - Added LG_SET_ACTIVE_LOW property 
+ - Added LG_SET_OPEN_DRAIN property 
+ - Added LG_SET_OPEN_SOURCE property 
+ - Added LG_SET_PULL_DOWN property 
+ - Added LG_SET_PULL_NONE property 
+ - Added LG_SET_PULL_UP property 
