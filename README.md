@@ -54,3 +54,7 @@ V1.1 (6 Mar 2022)
  - Added LG_SET_PULL_DOWN property 
  - Added LG_SET_PULL_NONE property 
  - Added LG_SET_PULL_UP property 
+
+V1.2 (7 Mar 2022)
+ - Added lgGpioClaimInput method
+ - Added lgGpioRead method
