@@ -65,3 +65,6 @@ V1.3 (12 Mar 2022)
 
 V1.4 (13 Mar 2022)
  - Added lgTxServo method
+
+V1.5 (27 Mar 2022)
+ - Added lguSleep method
