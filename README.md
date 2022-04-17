@@ -68,3 +68,15 @@ V1.4 (13 Mar 2022)
 
 V1.5 (27 Mar 2022)
  - Added lguSleep method
+
+V1.6 (17 Apr 2022)
+ - Updated lgGpioClaimOutput to have a more descriptive error 
+ - Added lguErrorText function 
+ - Updated lgGpiochipOpen to have a more descriptive error 
+ - Updated lgGpiochipClose to have a more descriptive error 
+ - Updated lgGpioClaimInput to have a more descriptive error 
+ - Updated lgGpioFree to have a more descriptive error 
+ - Updated lgGpioRead to have a more descriptive error 
+ - Updated lgGpioWrite to have a more descriptive error 
+ - Updated lgTxPwm to have a more descriptive error 
+ - Updated lgTxServo to have a more descriptive error 
