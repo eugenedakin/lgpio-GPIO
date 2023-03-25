@@ -80,3 +80,12 @@ V1.6 (17 Apr 2022)
  - Updated lgGpioWrite to have a more descriptive error 
  - Updated lgTxPwm to have a more descriptive error 
  - Updated lgTxServo to have a more descriptive error 
+
+V1.7 (5 Mar 2023)
+ - Fixed Error 
+
+V1.8 (19 Mar 2023)
+ - Added lguSleep
+
+V1.9 (25 Mar 2023)
+ - Updated Version notes
