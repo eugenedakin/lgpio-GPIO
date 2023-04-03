@@ -89,3 +89,13 @@ V1.8 (19 Mar 2023)
 
 V1.9 (25 Mar 2023)
  - Updated Version notes
+
+V1.10 (26 Mar 2023)
+ - Added lguTimestamp
+
+V1.11 (2 Apr 2023)
+ - Added lgGpioClaimAlert
+ - Added LG_RISING_EDGE
+ - Added LG_FALLING_EDGE
+ - Added LG_BOTH_EDGES
+ - Added lgGpioSetAlertsFunc
