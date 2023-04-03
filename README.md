@@ -7,7 +7,7 @@ should be minimal and your code should be stable for a very long time.
 
 ![](https://github.com/eugenedakin/lgpio-GPIO/blob/main/BlinkSmall.png)
 
-The lgpio library can be installed Raspberry Pi OS (Dec 2020) and instructions 
+The lgpio library can be installed Raspberry Pi OS (21 Feb 2020) and instructions 
 are available at http://abyz.me.uk/lg/download.html
 
 Install instructions are:
@@ -22,7 +22,7 @@ Install instructions are:
 9) give the executable permission to run with something like: 'sudo chmod +x Blink'
 10) run the program with something like: 'sudo ./Blink'
 
-As of Apr 2023, the latest Operating System is Raspbian Buster, with Raspberry Pi 4B, 
+As of Apr 2023, the latest Operating System is Raspberry Pi OS with desktop, Kernel version 5.15, Debian version:11 (bullseye), with Raspberry Pi 4B, 
 using Xojo's 2023 R1 (Xojo API2) code. 
 
 With the changes in Raspberry Pi motherboard, Buster Opeating System, Xojo API2, and deprecation
