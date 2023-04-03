@@ -22,8 +22,8 @@ Install instructions are:
 9) give the executable permission to run with something like: 'sudo chmod +x Blink'
 10) run the program with something like: 'sudo ./Blink'
 
-As of Dec 2020, the latest Operating System is Raspbian Buster, with Raspberry Pi 4B, 
-using Xojo's 2020 R2.1 (Xojo API2) code. 
+As of Apr 2023, the latest Operating System is Raspbian Buster, with Raspberry Pi 4B, 
+using Xojo's 2023 R1 (Xojo API2) code. 
 
 With the changes in Raspberry Pi motherboard, Buster Opeating System, Xojo API2, and deprecation
 of wiringPi, and sysfs, a new book might be written that provides examples, explanations, and 
