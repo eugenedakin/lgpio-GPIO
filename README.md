@@ -1,5 +1,5 @@
 # lgpio-GPIO
-Wrapper uses the new C-language gpiochip functions in Xojo 2021 r3.1
+Wrapper uses the new C-language gpiochip functions in Xojo 2023 r1
 
 This is a lgpio local library that is a replacement for the deprecated sysfs library that
 is to be used with Xojo apps. This library uses local c language calls, which means updates
