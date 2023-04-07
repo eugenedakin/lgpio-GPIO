@@ -99,3 +99,6 @@ V1.11 (2 Apr 2023)
  - Added LG_FALLING_EDGE
  - Added LG_BOTH_EDGES
  - Added lgGpioSetAlertsFunc
+
+V1.12 (7 Apr 2023)
+ - Added lgTxPulse
