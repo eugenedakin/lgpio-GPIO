@@ -110,3 +110,11 @@ V1.13 (28 May 2023)
  - Added lgI2cReadByteData
  - Added lgI2cWriteByteData
  - Added lguErrorText
+
+V1.14 (29 May 2023)
+ - Added lgI2cReadWordData
+ - Added lgI2cWriteWordData
+ - Updated comment on lgI2cReadByteData
+ - Updated comment on lgI2cWriteByteData
+ - Added lgI2cReadBlockData
+ - Added lgI2cWriteBlockData
