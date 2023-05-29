@@ -102,3 +102,11 @@ V1.11 (2 Apr 2023)
 
 V1.12 (7 Apr 2023)
  - Added lgTxPulse
+
+V1.13 (28 May 2023)
+ - Updated lgTxPwm
+ - Added lgI2cClose
+ - Added lgI2cOpen
+ - Added lgI2cReadByteData
+ - Added lgI2cWriteByteData
+ - Added lguErrorText
