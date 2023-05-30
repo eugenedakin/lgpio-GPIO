@@ -118,3 +118,16 @@ V1.14 (29 May 2023)
  - Updated comment on lgI2cWriteByteData
  - Added lgI2cReadBlockData
  - Added lgI2cWriteBlockData
+
+V1.15 (30 May 2023)
+ - Added lgI2CWriteQuick
+ - Added lgI2cReadByte
+ - Added lgI2cWriteByte
+ - Added lgI2cReadI2CBlockData
+ - Added lgI2cWriteI2CBlockData
+ - Added lgI2cReadDevice
+ - Added lgI2cWriteDevice
+ - Added lgI2cProcessCall
+ - Added lgI2cBlockProcessCall
+ - Added lgI2cSegments
+ - Added lgI2cZip
