@@ -131,3 +131,13 @@ V1.15 (30 May 2023)
  - Added lgI2cBlockProcessCall
  - Added lgI2cSegments
  - Added lgI2cZip
+
+V1.16 (31 May 2023)
+ - Added lguVersion
+ - Added lguSbcName
+ - Added lguGetInternal
+ - Added lguSetInternal
+ - Added lguSetWorkDir
+ - Added lguGetWorkDir
+ - Added LG_CFG_ID_MIN_DELAY
+ - Added LG_CFG_ID_DEBUG_LEVEL
