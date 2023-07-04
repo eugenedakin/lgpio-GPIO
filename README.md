@@ -141,3 +141,10 @@ V1.16 (31 May 2023)
  - Added lguGetWorkDir
  - Added LG_CFG_ID_MIN_DELAY
  - Added LG_CFG_ID_DEBUG_LEVEL
+
+V1.17 (3 July 2023)
+ - Added lgSpiOpen
+ - Added lgSpiClose
+ - Added lgSpiRead
+ - Added lgSpiWrite
+ - Added lgSpiXfer
