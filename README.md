@@ -148,3 +148,9 @@ V1.17 (3 July 2023)
  - Added lgSpiRead
  - Added lgSpiWrite
  - Added lgSpiXfer
+
+V1.18 (5 July 2023)
+ - Added more descriptive information in lgSpiOpen method
+ - Added more descriptive information in lgSpiClose method
+ - Added more descriptive information in lgSpiWrite method
+ - Edited descriptive information in lgSpiXfer method
