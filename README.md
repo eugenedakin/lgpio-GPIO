@@ -154,3 +154,12 @@ V1.18 (5 July 2023)
  - Added more descriptive information in lgSpiClose method
  - Added more descriptive information in lgSpiWrite method
  - Edited descriptive information in lgSpiXfer method
+
+V1.19 (8 July 2023)
+ - Added LG_GPIO_LABEL_LEN GPIO Constant
+ - Added LG_GPIO_NAME_LEN GPIO Constant
+ - Added LG_GPIO_USER_LEN GPIO Constant
+ - Added lgChipInfo_t Structure 
+ - Updated lgI2cWriteBlockData rxBuf to txBuf
+ - Added lgGpioGetChipInfo method
+ - Added LG_OKAY constant
