@@ -163,3 +163,30 @@ V1.19 (8 July 2023)
  - Updated lgI2cWriteBlockData rxBuf to txBuf
  - Added lgGpioGetChipInfo method
  - Added LG_OKAY constant
+
+V1.20 (9 July 2023)
+ - Updated lgGpioGetChipInfo information
+ - Added lgGpioGetLineInfo method
+ - Added lgLineInfo_p structure uses lgLineInfoFlags method
+ - Wrote lgLineInfoFlags method to return string from bits
+ - Added lgGpioGetMode uses lgLineInfoFlags method
+ - Added lgGpioSetUser method
+ - Wrote lgGPIOUser structure 
+ - Added lgTxBusy
+ - Added LG_TX_PWM
+ - Added LG_TX_WAVE
+ - Added LG_LOW
+ - Added LG_HIGH
+ - Added LG_TIMEOUT
+ - Added LG_GPIO_IS_KERNEL
+ - Added LG_GPIO_IS_OUTPUT
+ - Added LG_GPIO_IS_ACTIVE_LOW
+ - Added LG_GPIO_IS_OPEN_DRAIN
+ - Added LG_GPIO_IS_OPEN_SOURCE
+ - Added LG_GPIO_IS_PULL_UP
+ - Added LG_GPIO_IS_PULL_DOWN
+ - Added LG_GPIO_IS_PULL_NONE
+ - Added LG_GPIO_IS_INPUT
+ - Added LG_GPIO_IS_RISING_EDGE
+ - Added LG_GPIO_IS_FALLING_EDGE
+25) Added LG_GPIO_IS_REALTIME_CLOCK
