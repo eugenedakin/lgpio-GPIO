@@ -190,3 +190,11 @@ V1.20 (9 July 2023)
  - Added LG_GPIO_IS_RISING_EDGE
  - Added LG_GPIO_IS_FALLING_EDGE
  - Added LG_GPIO_IS_REALTIME_CLOCK
+
+V1.21 (10 July 2023)
+ - lgI2cWriteDevice fixed unused rxBuf issue
+ - lgSpiWrite fixed unused rxBuf issue
+ - Added gpio unused parameter in lgGpioFree Method
+ - Added PulseWidth in lgTxServo unused method paramter
+ - Added eFlags in lgGpioClaimAlert unused method parameter 
+ - Placed retval local parameter in used area of lgTxServo
