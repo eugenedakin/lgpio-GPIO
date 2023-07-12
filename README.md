@@ -198,3 +198,18 @@ V1.21 (10 July 2023)
  - Added PulseWidth in lgTxServo unused method paramter
  - Added eFlags in lgGpioClaimAlert unused method parameter 
  - Placed retval local parameter in used area of lgTxServo
+
+V1.22 (11 July 2023)
+ - Added LG_MAX_PATH
+ - Added LG_THREAD_NONE
+ - Added LG_THREAD_STARTED
+ - Added LG_THREAD_RUNNING
+ - Added LG_NOTIFY_CLOSED
+ - Added LG_NOTIFY_CLOSING
+ - Added LG_NOTIFY_RUNNING
+ - Added LG_NOTIFY_PAUSED
+ - Added MAX_REPORT
+ - Added MAX_SAMPLE
+ - Added STACK_SIZE
+ - Added LG_USER_LEN
+ - Added LG_SALT_LEN
