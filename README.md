@@ -213,3 +213,14 @@ V1.22 (11 July 2023)
  - Added STACK_SIZE
  - Added LG_USER_LEN
  - Added LG_SALT_LEN
+
+V1.23 (12 July 2023)
+ - Added LG_FILE_NONE
+ - Added LG_FILE_MIN
+ - Added LG_FILE_READ
+ - Added LG_FILE_WRITE
+ - Added LG_FILE_RW
+ - Added LG_FILE_APPEND
+ - Added LG_FILE_CREATE
+ - Added LG_FILE_TRUNC
+ - Added LG_FILE_MAX
