@@ -257,3 +257,8 @@ V1.26 (15 July 2023)
  - Add LG_I2C_FLAGS
  - Add LG_I2C_READ
  - Add LG_I2C_WRITE
+
+V1.27 (23 July 2023)
+ - Add lgGpioReport_t Structure 
+ - Add lgI2cMsg_t Structure
+ - Add lgPulse_p Structure 
