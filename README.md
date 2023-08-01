@@ -262,3 +262,7 @@ V1.27 (23 July 2023)
  - Add lgGpioReport_t Structure 
  - Add lgI2cMsg_t Structure
  - Add lgPulse_p Structure 
+
+V1.28 (31 July 2023)
+ - Add lgGpioAlert_x Structure
+ - Add lgGpioAlertsFunc_t Structure 
