@@ -30,8 +30,8 @@ To use the lgpio with Raspberry Pi 4 or older systems, get the chop handle with 
 MyChipHandle = lgGpiochipOpen(0) //dev/gpiochip0 for Raspberry Pi 4 or older
 
 To use the lgpio with the Raspberry Pi 5 board, get the chop handle with the following command:
-//Initialize the Raspberry Pi lgpio
-MyChipHandle = lgGpiochipOpen(4) //dev/gpiochip4 for Raspberry Pi 5
+| Initialize the Raspberry Pi lgpio |
+| MyChipHandle = lgGpiochipOpen(4) //dev/gpiochip4 for Raspberry Pi 5 |
 
 With the changes in Raspberry Pi motherboard, Buster Opeating System, Xojo API2, and deprecation
 of wiringPi, and sysfs, a new book might be written that provides examples, explanations, and 
