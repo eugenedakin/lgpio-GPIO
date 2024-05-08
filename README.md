@@ -26,11 +26,12 @@ As of Apr 2023, the latest Operating System is Raspberry Pi OS with desktop, Ker
 using Xojo's 2023 R1 (Xojo API2) code. 
 
 To use the lgpio with Raspberry Pi 4 or older systems, get the chop handle with the following command:
-//Initialize the Raspberry Pi lgpio
-MyChipHandle = lgGpiochipOpen(0) //dev/gpiochip0 for Raspberry Pi 4 or older
+| Initialize the Raspberry Pi 4 lgpio |
+| --------------------------------- |
+| MyChipHandle = lgGpiochipOpen(0) //dev/gpiochip0 for Raspberry Pi 4 or older |
 
 To use the lgpio with the Raspberry Pi 5 board, get the chop handle with the following command:
-| Initialize the Raspberry Pi lgpio |
+| Initialize the Raspberry Pi 5 lgpio |
 | --------------------------------- |
 | MyChipHandle = lgGpiochipOpen(4) //dev/gpiochip4 for Raspberry Pi 5 |
 
