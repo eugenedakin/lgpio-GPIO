@@ -39,7 +39,7 @@ With the changes in Raspberry Pi motherboard, Buster Opeating System, Xojo API2,
 of wiringPi, and sysfs, a new book might be written that provides examples, explanations, and 
 data for all of these recent changes. 
 
-Credit is given to Joan at http://abyz.me.uk/lg/lgpio.html who has matured the libgiod C library with a wrapping of the lgpio C API.
+Credit is given to Joan at http://abyz.me.uk/lg/lgpio.html who has matured the libgpiod C library with a wrapping of the lgpio C API.
 
 V1.0 (22 Dec 2020)
   The initial and starting declares used to work with the lgpio on Raspberry Pi 4,
