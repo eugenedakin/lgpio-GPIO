@@ -276,3 +276,12 @@ V1.27 (23 July 2023)
 V1.28 (31 July 2023)
  - Add lgGpioAlert_x Structure
  - Add lgGpioAlertsFunc_t Structure 
+
+V1.28 (31 July 2023)
+ - Add lgGpioAlert_x Structure
+ - Add lgGpioAlertsFunc_t Structure
+
+V1.29 (25 May 2024)
+ - Changed lgI2cReadWordData to UInt16
+ - Fixed lgI2cReadWordData bug
+ - Updated the README file 
