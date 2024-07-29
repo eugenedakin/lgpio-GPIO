@@ -11,8 +11,8 @@ The lgpio library can be installed Raspberry Pi OS (21 Feb 2020) and instruction
 are available at http://abyz.me.uk/lg/download.html
 
 Install instructions are:
-1) sudo apt install swig python-dev python3-dev
-2) sudo apt install python-setuptools python3-setuptools
+1) sudo apt install swig python3-dev
+2) sudo apt install python3-setuptools
 3) wget http://abyz.me.uk/lg/lg.zip
 4) unzip lg.zip
 5) cd lg
