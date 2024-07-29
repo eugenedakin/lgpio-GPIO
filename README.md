@@ -28,12 +28,13 @@ On 13 May 2023, the latest Operating System is Raspberry Pi OS with desktop, Ker
 To use the lgpio with Raspberry Pi 4 or older systems, get the chip handle with the following command:
 | Initialize the Raspberry Pi 4 lgpio |
 | --------------------------------- |
+
 '''MyChipHandle = lgGpiochipOpen(0) //dev/gpiochip0 for Raspberry Pi 4 or older'''
 
 To use the lgpio with the Raspberry Pi 5 board, get the chip handle with the following command:
 | Initialize the Raspberry Pi 5 lgpio |
 | --------------------------------- |
-| ...MyChipHandle = lgGpiochipOpen(4) //dev/gpiochip4 for Raspberry Pi 5 |
+| MyChipHandle = lgGpiochipOpen(4) //dev/gpiochip4 for Raspberry Pi 5 |
 
 With the changes in Raspberry Pi motherboard, Buster Opeating System, Xojo API2, and deprecation
 of wiringPi, and sysfs, a new book might be written that provides examples, explanations, and 
