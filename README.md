@@ -20,9 +20,10 @@ Install instructions are:
 7) cd lg
 8) make
 9) sudo make install
-10) create a Blink example program and copy the program and libraries to the RaspberryPi Desktop (make a 64-bit version)
-11) give the executable permission to run with something like: 'sudo chmod +x Blink'
-12) run the program with something like: 'sudo ./Blink'
+10) Place a small resistor and LED on GPIO pin #26
+11) create a Blink example program and copy the program and libraries to the RaspberryPi Desktop (make a 64-bit version)
+12) give the executable permission to run with something like: 'sudo chmod +x Blink'
+13) run the program with something like: 'sudo ./Blink'
 
 As of Apr 2023, the latest Operating System is Raspberry Pi OS with desktop, Kernel version 5.15, Debian version:11 (bullseye), with Raspberry Pi 4B, using Xojo's 2023 R1 (Xojo API2) code. 
 On 13 May 2023, the latest Operating System is Raspberry Pi OS with desktop, Kernel version 6.6, Debian version: 12 (Bookworm), with Raspberry Pi 5, using Xojo's 2024 r4.1 (Xojo API2) code.
