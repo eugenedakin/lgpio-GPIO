@@ -292,3 +292,7 @@ V1.30 (14 June 2024)
  - Changed lgI2cReadByteData to UInt8
  - Changed lgI2cWriteByte to write UInt8
  - Fixed lgI2cReadWordData
+
+V1.31 (20 Sept 2024)
+ - Fixed lgI2cWriteWordData
+
