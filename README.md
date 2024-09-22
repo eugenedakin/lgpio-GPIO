@@ -296,3 +296,25 @@ V1.30 (14 June 2024)
 V1.31 (20 Sept 2024)
  - Fixed lgI2cWriteWordData
 
+V1.32 (22 Sept 2024)
+ - Fixed lgI2cWriteBlockData
+ - Added comments to lgI2cWriteBlockData
+ - Added comments to lgI2cReadDevice
+ - Added comments to lgI2cWriteDevice
+ - Added comments to lgI2cSegments
+ - Added comments to lgI2cZip
+ - Added comments to lgI2cBlockProcessCall
+ - Added comments to lgI2cProcessCall
+ - Added comments to lgI2cReadWordData -
+ - Added comments to lgI2cProcessCall
+ - Added comments to lgI2cReadWordData
+ - Added comments to lgI2cReadByteData
+ - Fixed lgI2cWriteWordData
+ - Added comments to lgI2cWriteWordData
+ - Added comments to lgI2cWriteByteData
+ - Added comment to lgI2cReadByte
+ - Added comments to lgI2cWriteByte
+ - Added comments to lgI2cWriteQuick
+ - Added comment to lgI2cClose
+ - Added comments to lgI2cReadI2CBlockData
+ - Added comments to lgI2cWriteI2CBlockData
