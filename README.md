@@ -7,8 +7,9 @@ should be minimal and your code should be stable for a very long time.
 
 ![](https://github.com/eugenedakin/lgpio-GPIO/blob/main/BlinkSmall.png)
 
-The lgpio library can be installed Raspberry Pi OS (21 Feb 2020) and instructions 
-are available at http://abyz.me.uk/lg/download.html
+
+The lgpio library can be installed Raspberry Pi OS (28 Feb 2020) and instructions 
+are available at https://github.com/joan2937/lg (updated 2024)
 
 Install instructions are:
 1) install Raspberry Pi OS (64-bit)
