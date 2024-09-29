@@ -16,9 +16,9 @@ Install instructions are:
 2) Open a terminal and type the following commands:
 3) sudo apt install swig python3-dev
 4) sudo apt install python3-setuptools
-5) wget http://abyz.me.uk/lg/lg.zip
-6) unzip lg.zip
-7) cd lg
+5) wget https://github.com/joan2937/lg/archive/master.zip
+6) unzip master.zip
+7) cd lg-master
 8) make
 9) sudo make install
 10) Place a small resistor and LED on GPIO pin #26
