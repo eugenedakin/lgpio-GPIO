@@ -16,15 +16,16 @@ Install instructions are:
 2) Open a terminal and type the following commands:
 3) sudo apt install swig python3-dev
 4) sudo apt install python3-setuptools
-5) wget https://github.com/joan2937/lg/archive/master.zip
-6) unzip master.zip
-7) cd lg-master
-8) make
-9) sudo make install
-10) Place a small resistor and LED on GPIO pin #26
-11) create a Blink example program and copy the program and libraries to the RaspberryPi Desktop (make a 64-bit version)
-12) give the executable permission to run with something like: 'sudo chmod +x Blink'
-13) run the program with something like: 'sudo ./Blink'
+5) sudo apt-get install libunwind8
+6) wget https://github.com/joan2937/lg/archive/master.zip
+7) unzip master.zip
+8) cd lg-master
+9) make
+10) sudo make install
+11) Place a small resistor and LED on GPIO pin #26
+12) create a Blink example program and copy the program and libraries to the RaspberryPi Desktop (make a 64-bit version)
+13) give the executable permission to run with something like: 'sudo chmod +x Blink'
+14) run the program with something like: 'sudo ./Blink'
 
 As of Aug 2024, the latest Operating System is Raspberry Pi OS with desktop, Kernel version 6.6, Debian version:12 (bookworm), with Raspberry Pi 4B, using Xojo's 2023 R4 (Xojo API2) code. 
 
