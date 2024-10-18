@@ -16,7 +16,7 @@ Install instructions are:
 2) Open a terminal and type the following commands:
 3) sudo apt install swig python3-dev
 4) sudo apt install python3-setuptools
-5) sudo apt-get install libunwind8
+5) sudo apt install libunwind8
 6) wget https://github.com/joan2937/lg/archive/master.zip
 7) unzip master.zip
 8) cd lg-master
