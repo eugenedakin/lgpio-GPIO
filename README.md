@@ -320,3 +320,7 @@ V1.32 (22 Sept 2024)
  - Added comment to lgI2cClose
  - Added comments to lgI2cReadI2CBlockData
  - Added comments to lgI2cWriteI2CBlockData
+
+V1.33 (19 Oct 2025)
+ - Added LG_ERR Property (general error)
+ - Added LG_EVINVAL Property (error invalid argument)
