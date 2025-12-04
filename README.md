@@ -324,3 +324,9 @@ V1.32 (22 Sept 2024)
 V1.33 (19 Oct 2025)
  - Added LG_ERR Property (general error)
  - Added LG_EVINVAL Property (error invalid argument)
+
+V1.34 (19 Nov 2025)
+ - Removed ByRef in method lgGpioSetAlertsFunc and Declare
+ - Added clock_gettime Declare 
+ - Added TimeVal structure 
+ - Added CLOCK_REALTIME constant
